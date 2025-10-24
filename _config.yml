@@ -1,7 +1,7 @@
 ### Site metadata
 
-title: Artist's Portfolio
-description: A gallery of images for an artist's portfolio, built with Jekyll
+title: Blights works
+description: A gallery of images from Blight ran by Cherno
 
 url: "https://gallery-blight.netlify.app"
 baseurl: ""
@@ -17,7 +17,7 @@ author:
   name: Blight/Cherno
   twitter:
 social: https://discordapp.com/users/469617185552203786
-  name: Artist's Portfolio
+  name: Blights Works
   links:
     - https://github.com/Cherno-Blight
 
