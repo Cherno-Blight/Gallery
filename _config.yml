@@ -15,10 +15,10 @@ google_analytics_key: ""
 logo: /siteicon.png
 author:
   name: Blight/Cherno
-  twitter:
-social: https://discordapp.com/users/469617185552203786
+social:
   name: Blights Works
   links:
+    - https://discordapp.com/users/469617185552203786
     - https://github.com/Cherno-Blight
 
 ### Build settings

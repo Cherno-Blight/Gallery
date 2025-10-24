@@ -1,7 +1,8 @@
 about:
   text: |
-
     Follow me on Discord
-contact: https://discordapp.com/users/469617185552203786
-  text: | Blight
+contact:
+  link: https://discordapp.com/users/469617185552203786
+  text: |
+    Blight
     I'm currently available for new projects. Get in touch, I'd love to work together.
